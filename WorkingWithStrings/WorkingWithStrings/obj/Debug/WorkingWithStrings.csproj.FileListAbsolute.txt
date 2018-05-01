@@ -1,0 +1,12 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache
+c:\users\nbarkus\documents\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache

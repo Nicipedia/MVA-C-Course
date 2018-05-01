@@ -1,0 +1,1 @@
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\CS-Code\Lesson_20\Before\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config

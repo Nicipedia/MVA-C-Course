@@ -1,0 +1,6 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\OperatorsExpressionsStatments\OperatorsExpressionsStatments\bin\Debug\OperatorsExpressionsStatments.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\OperatorsExpressionsStatments\OperatorsExpressionsStatments\bin\Debug\OperatorsExpressionsStatments.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\OperatorsExpressionsStatments\OperatorsExpressionsStatments\bin\Debug\OperatorsExpressionsStatments.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\OperatorsExpressionsStatments\OperatorsExpressionsStatments\obj\Debug\OperatorsExpressionsStatments.csprojResolveAssemblyReference.cache
+c:\users\nbarkus\documents\visual studio 2015\Projects\OperatorsExpressionsStatments\OperatorsExpressionsStatments\obj\Debug\OperatorsExpressionsStatments.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\OperatorsExpressionsStatments\OperatorsExpressionsStatments\obj\Debug\OperatorsExpressionsStatments.pdb

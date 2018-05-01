@@ -1,0 +1,12 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache

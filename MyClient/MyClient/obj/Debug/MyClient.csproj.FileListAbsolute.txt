@@ -1,0 +1,8 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyClient.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyClient.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyClient.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.pdb

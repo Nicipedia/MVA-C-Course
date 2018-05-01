@@ -1,0 +1,5 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csprojResolveAssemblyReference.cache
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
+c:\users\nbarkus\documents\visual studio 2015\Projects\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb

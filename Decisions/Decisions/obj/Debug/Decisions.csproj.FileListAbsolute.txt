@@ -1,0 +1,5 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.pdb

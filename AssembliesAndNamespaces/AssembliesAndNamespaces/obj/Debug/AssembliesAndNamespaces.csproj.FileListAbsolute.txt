@@ -1,0 +1,8 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\MVA Course\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb

@@ -1,0 +1,5 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
